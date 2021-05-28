@@ -1,0 +1,21 @@
+Risultati terzo metodo:
+Immagine originale: "Roma.png"
+Immagine con watermarking: "watermarking_terzo_metodo.png"
+Immagine decodificata: "QR_CODE_TERZA_DECODIFICA.png"
+
+Attacco "rotazione immagine di 30°":
+Immagine originale ruotata: "Roma_ruotata.png"
+Immagine con watermarking ruotata: "watermarking_terzo_metodo_ruotata.png"
+Immagine codificata post attaccco: "decodificata_terzo_metodo_ruotata.png"
+
+Attacco "Immagine tagliata":
+Immagine con watermarking tagliata: "watermarking_terzo_metodo_tagliata.png"
+Immagine codificata post attaccco: "decodifica_terzo_metodo_tagliata.png"
+
+Attacco "Immagine con rumore":
+Immagine con watermarking applicando rumore: "watermarking_attacco_rumore.png"
+Immagine codificata post attaccco: "decodifica_terzo_metodo_rumore.png"
+
+Attacco "Conversione":
+Immagine con watermarking applicando la conversione in jpg: "watermarking_attacco_conversione.jpg"
+Immagine codificata post attaccco: "decodifica_terzo_metodo_convertita.jpg"
