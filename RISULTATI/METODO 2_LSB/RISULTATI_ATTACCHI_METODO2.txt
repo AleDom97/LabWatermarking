@@ -1,0 +1,8 @@
+Risultati secondo metodo:
+Immagine originale: "Roma.png"
+Immagine con watermarking: "watermarking_seconda_codifica.png"
+Immagine decodificata: "QR_CODE_SECONDA_DECODIFICA.png"
+
+Attacco "Immagine tagliata":
+Immagine con watermarking tagliata: "seconda_decodifica.png"
+Immagine codificata post attaccco: "QR_Post_taglio.png"
